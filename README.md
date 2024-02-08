@@ -5,3 +5,6 @@ Metodologia: HTML 5, CSS
 Program: Visual Studio Code
 Żródło: https://arkusze.pl/zawodowy/inf03-2022-czerwiec-egzamin-zawodowy-praktyczny.pdf
 Data Ukończenia: 06.02.2023
+Adres strony:
+Deploy (gałaz modyfikowania):
+Pliki i foldery
